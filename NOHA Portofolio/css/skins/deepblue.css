@@ -1,0 +1,27 @@
+.lightbox .lightbox-controls .prev-item .fa,
+.lightbox .lightbox-controls .next-item .fa,
+.contact .contact-info-item .icon .fa,
+.portfolio .portfolio-item .portfolio-info .icon .fa,
+.portfolio .portfolio-filter button.active,
+.aside .nav li a:hover,
+.aside .nav li a.active,
+.about .about-content .about-text h3 span {
+  color: #6281e0;
+}
+
+.about .about-content .timeline .circle-dot,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::before,
+.section-title h2::after,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-link a {
+  background-color: #6281e0;
+}
+
+.portfolio .portfolio-filter button.active {
+  border-color: #6281e0;
+}
